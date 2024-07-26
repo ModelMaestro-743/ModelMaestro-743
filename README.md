@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ModelMaestro-743
 - 👀 I’m interested in Machine Learning and its applications in various domains.
-- 🌱 I’m currently learning Feature Engineering and Machine Learning algorithms along with developing projects.
+- 🌱 I’m currently learning Feature Engineering and Machine Learning algorithms alongside developing projects.
 - 💞️ I’m looking to collaborate on projects.
 
 
