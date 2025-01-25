@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about Generative AI, Machine
 </p>
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModelMaestro-743&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
